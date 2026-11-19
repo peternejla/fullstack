@@ -1,0 +1,19 @@
+.
+├── backend
+│   ├── index.js
+│   ├── node_modules
+│   ├── package-lock.json
+│   └── package.json
+├── frontend
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── index.html <-- här ska du lägga den
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   ├── README.md
+│   ├── src
+│   └── vite.config.js
+└── test.txt
+
+7 directories, 10 files
